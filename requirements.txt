@@ -1,0 +1,20 @@
+# Core CLI output
+colorama>=0.4.6
+
+# Authentication / protocol modules
+paramiko>=3.4.0
+impacket>=0.11.0
+
+# Service-specific modules
+cassandra-driver>=3.29.0
+pymongo>=4.8.0
+pysnmp>=4.4.12
+
+# Database modules
+pymysql>=1.1.0
+
+# LDAP module
+ldap3>=2.9.1
+
+# FTP (built-in ftplib, no extra dependency)
+# HTTP / JSON (built-in urllib, no extra dependency)
